@@ -18,32 +18,5 @@ Une application web interactive basée sur l'intelligence artificielle pour reco
 * **Scikit-Learn** (Calcul de similarité Cosine)
 * **TMDB API** (Images et données de films)
 
-## ⚙️ Installation locale
-
-Si vous voulez lancer ce projet sur votre propre ordinateur :
-
-1.  **Cloner le dépôt :**
-    ```bash
-    git clone [https://github.com/IMANE-ABDELJALILI/movie-recommender.git](https://github.com/IMANE-ABDELJALILI/movie-recommender.git)
-    cd movie-recommender
-    ```
-
-2.  **Installer les dépendances :**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-3.  **Configurer la clé API :**
-    Créez un fichier `.env` à la racine du projet et ajoutez votre clé TMDB :
-    ```text
-    TMDB_API_KEY=votre_clé_api_ici
-    ```
-
-4.  **Lancer l'application :**
-    ```bash
-    streamlit run app.py
-    ```
-
-
 ---
 *Développé avec ❤️ par Jihane BOUGRINE
