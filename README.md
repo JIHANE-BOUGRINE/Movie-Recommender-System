@@ -44,11 +44,6 @@ Si vous voulez lancer ce projet sur votre propre ordinateur :
     streamlit run app.py
     ```
 
-## 📂 Structure des données
-
-Le système utilise deux fichiers principaux (compressés pour GitHub) :
-* `movie_dict.pkl` : Dictionnaire contenant les titres et IDs des films.
-* `similarity.pkl` : Matrice de similarité pré-calculée.
 
 ---
 *Développé avec ❤️ par Jihane BOUGRINE
