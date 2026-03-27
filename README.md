@@ -2,8 +2,6 @@
 
 Une application web interactive basée sur l'intelligence artificielle pour recommander des films similaires à vos favoris.
 
-🔗 **Démo en direct :** [https://movie-recommender-9kqekxtxn26m3rzho8rvgt.streamlit.app/)
-
 ## ✨ Fonctionnalités
 
 * ** Moteur de Recommandation :** Suggère 5 films basés sur la similarité du contenu (Content-Based Filtering).
